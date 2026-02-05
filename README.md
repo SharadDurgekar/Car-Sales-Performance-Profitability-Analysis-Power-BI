@@ -1,3 +1,4 @@
+
 # Car-Sales-Performance-Profitability-Analysis-Power-BI
 Project Overview  This project focuses on analyzing car sales performance using Power BI to provide actionable business insights through interactive dashboards. The analysis helps stakeholders understand revenue trends, sales growth drivers, dealer performance, and customer preferences using Year-to-Date (YTD) and Month-to-Date (MTD) metrics.
 
